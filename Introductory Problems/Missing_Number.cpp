@@ -175,7 +175,34 @@ void _print(const Head &H, const Tail &...T)
 
 void solve()
 {
-    
+    mpii map;
+
+    ll n;
+    cin >> n;
+
+    rep1(i, 1, n)
+    {
+        map[i] = 0;
+    }
+
+    debug(map);
+
+    rep1(i, 1, n)
+    {
+        int x;
+        cin >> x;
+        map[x]++;
+    }
+
+    debug(map);
+
+    for (auto it = map.begin(); it != map.end(); it++)
+    {
+        if (it->se == 0)
+        {
+            cout << it->fi << endl;
+        }
+    }
 }
 
 int main()
