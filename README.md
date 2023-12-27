@@ -4,18 +4,18 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     3/19     |
-| Sorting and Searching |     0/35     |
-| Dynamic Programming   |     0/19     |
-| Graph Algorithms      |     0/36     |
-| Range Queries         |     1/19     |
-| Tree Algorithms       |     0/16     |
-| Mathematics           |     1/31     |
-| String Algorithms     |     0/17     |
-| Geometry              |      0/7      |
-| Advanced Techniques   |     0/24     |
-| Additional Problems   |     0/77     |
-| **Total**             |  **5/300**  |
+| Introductory Problems |     3/19      |
+| Sorting and Searching |     1/35      |
+| Dynamic Programming   |     0/19      |
+| Graph Algorithms      |     0/36      |
+| Range Queries         |     1/19      |
+| Tree Algorithms       |     0/16      |
+| Mathematics           |     1/31      |
+| String Algorithms     |     0/17      |
+| Geometry              |     0/7       |
+| Advanced Techniques   |     0/24      |
+| Additional Problems   |     0/77      |
+| **Total**             |  **6/300**    |
 
 # Table of Contents
 
