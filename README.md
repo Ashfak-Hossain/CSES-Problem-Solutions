@@ -47,7 +47,7 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 1. [Concert Tickets]
 1. [Restaurant Customers]
 1. [Movie Festival]
-1. [Sum of Two Values]
+1. [Sum of Two Values](/Sorting%20and%20Searching/Sum_of_Two_Values.cpp)
 1. [Maximum Subarray Sum]
 1. [Stick Lengths]
 1. [Missing Coin Sum]
