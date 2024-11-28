@@ -60,6 +60,6 @@ int32_t main() {
 
 
 /* Time Complexity:
-    Binary Search: O(n * log(sum of array))
+    Binary Search: O(n * log(n))
     Space Complexity: O(n)
 */
